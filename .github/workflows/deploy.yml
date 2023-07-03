@@ -8,7 +8,7 @@ env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: prueba
   ECS_SERVICE: pruebaT
-  ECS_CLUSTER: ecsClusterPruebaT
+  ECS_CLUSTER: clusterPruebaT
   CONTAINER_NAME: pruebaT
 
 permissions:
