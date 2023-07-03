@@ -9,7 +9,7 @@ env:
   ECR_REPOSITORY: prueba
   ECS_SERVICE: pruebaT
   ECS_CLUSTER: ecsClusterPruebaT
-  CONTAINER_NAME: prueba
+  CONTAINER_NAME: pruebaT
 
 permissions:
   contents: read
